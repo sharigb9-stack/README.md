@@ -35,5 +35,8 @@ Screen 4 payment of the purchase
 
 This is the final screen of the process. Here you'll find a complete summary of everything the customer selected: -Movie -Ticket type and quantity -Showtime -Concessions -Ticket total -Concessions total -Grand total It also includes a thank you message for the purchase.
 
-The customer can correct their purchase by going back using the "Back" button, or finalize the transaction by pressing "Confirm".
+TECHNOLOGIES USED.
+The customer can correct their pThe following technologies were used for the creation and desing of the project:
+
+Hand-drawn sketches and prototypes to simulate the system interfaces. Visual programming concepts: in this case, we used wxGlade. Basic UI/UX desing, text boxes, and graphic elements. Navigation logic, representing how the screens connect and how subtotals and totals are processed.urchase by going back using the "Back" button, or finalize the transaction by pressing "Confirm".
 
