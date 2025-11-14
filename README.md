@@ -40,3 +40,11 @@ The customer can correct their pThe following technologies were used for the cre
 
 Hand-drawn sketches and prototypes to simulate the system interfaces. Visual programming concepts: in this case, we used wxGlade. Basic UI/UX desing, text boxes, and graphic elements. Navigation logic, representing how the screens connect and how subtotals and totals are processed.urchase by going back using the "Back" button, or finalize the transaction by pressing "Confirm".
 
+TEAM.
+Team: Sharks Members.
+
+1. Shari Juliet García Barragán
+2. Luz Yamilet García Rubio
+3. Erick Najera Hernandez
+4. Dilan Bryan Sanchez Bautista
+5. Alejandra Velazquez Rodriguez
